@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Nieustannie w Komisie"];
+const statusMessages = ["Na Serwerze Vibe Role Play"];
 
 
 let currentIndex = 0;
